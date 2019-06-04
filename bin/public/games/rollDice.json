@@ -1,0 +1,11 @@
+{
+    "userDie1": 3,
+    "userDie2": 2,
+    "userTotal": 5,
+    "computerDie1": 4,
+    "computerDie2": 5,
+    "computerTotal": 9,
+    "currentWin": 0,
+    "sumUp": "You Lose",
+    "double": null
+}
