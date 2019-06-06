@@ -215,9 +215,9 @@ $router->post('/games/rollDice',function (IRequest $request) use ($db,$router){
 
     $userDie1 = $users['userDie1'];
     $userDie2 = $users['userDie2'];
-    $compueterDie1 = $users['userTotal'];
-    $compueterDie2 = $users['computerDie1'];
-    $userTotal = $users['computerDie2'];
+    $compueterDie1 = $users['computerDie1'];
+    $compueterDie2 = $users['computerDie2'];
+    $userTotal = $users['userTotal'];
     $computerTotal = $users['computerTotal'];
     $double = $users['double'];
     $sumUp = $users['sumUp'];
